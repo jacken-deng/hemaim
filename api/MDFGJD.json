@@ -1,0 +1,11 @@
+{
+	"code": 200,
+	"msg": "success!",
+	"data": {
+		"t": "1564329600",
+		"title": "温馨提示",
+		"u": "https:\/\/fenfa51.com\/",
+		"status": "1",
+		"alertopen": 0
+	}
+}
